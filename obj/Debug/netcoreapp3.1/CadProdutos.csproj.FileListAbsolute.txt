@@ -1,0 +1,7 @@
+C:\Users\jorge\OneDrive\Documents\GitHub\Projetos Pessoais\CadProdutos\obj\Debug\netcoreapp3.1\CadProdutos.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\Documents\GitHub\Projetos Pessoais\CadProdutos\obj\Debug\netcoreapp3.1\CadProdutos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Documents\GitHub\Projetos Pessoais\CadProdutos\obj\Debug\netcoreapp3.1\CadProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge\OneDrive\Documents\GitHub\Projetos Pessoais\CadProdutos\obj\Debug\netcoreapp3.1\CadProdutos.RazorAssemblyInfo.cache
+C:\Users\jorge\OneDrive\Documents\GitHub\Projetos Pessoais\CadProdutos\obj\Debug\netcoreapp3.1\CadProdutos.RazorAssemblyInfo.cs
+C:\Users\jorge\OneDrive\Documents\GitHub\Projetos Pessoais\CadProdutos\obj\Debug\netcoreapp3.1\CadProdutos.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Documents\GitHub\Projetos Pessoais\CadProdutos\obj\Debug\netcoreapp3.1\CadProdutos.AssemblyInfo.cs

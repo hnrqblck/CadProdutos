@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/XPm+W5GpNX2iCj1+k3iB1SpFWZhvxcoXrXzXXDHIFCPsYecWExrL/kUwkW5KHk43k/3WTOlhAt9XQ5apDh5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\OneDrive\\Documents\\GitHub\\Projetos Pessoais\\CadProdutos\\CadProdutos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
